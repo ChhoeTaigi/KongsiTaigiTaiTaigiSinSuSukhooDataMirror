@@ -1,0 +1,40 @@
+{
+  "last_updated": "2026-10-10T23:58:30.466164",
+  "latest_version_dir": "20261010-2358",
+  "entry_count": 2157,
+  "source": {
+    "KongsiTaigiTaiTaigiSinSuSukhooData.json": {
+      "url": "https://www.taigitv.org.tw/taigi-words"
+    }
+  },
+  "files": {
+    "KongsiTaigiTaiTaigiSinSuSukhooData.json": "acc2ccfc8bcfc431a9695b3627dcd84176e1d4ca385403061df93be93b846a17"
+  },
+  "imtong_missing": [
+    "300-2.wav",
+    "336-2.wav",
+    "366-2.wav",
+    "378-2.wav",
+    "391-2.wav",
+    "398-2.wav",
+    "457.wav",
+    "522.wav",
+    "718.wav",
+    "732.wav",
+    "928.wav",
+    "936-2.wav",
+    "991-2.wav",
+    "992-2.wav",
+    "1141-2.wav",
+    "1276.wav",
+    "1287.wav",
+    "1348-2.wav",
+    "1349-2.wav",
+    "1373.wav",
+    "1386.wav",
+    "1535.wav",
+    "1611.wav",
+    "1719-2.wav",
+    "2093.wav"
+  ]
+}
